@@ -1,0 +1,9 @@
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/coding-challenges/csharp-challenge-cvchavez2/Palindrome.Domain/bin/Debug/netstandard2.0/Palindrome.Domain.deps.json
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/coding-challenges/csharp-challenge-cvchavez2/Palindrome.Domain/bin/Debug/netstandard2.0/Palindrome.Domain.dll
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/coding-challenges/csharp-challenge-cvchavez2/Palindrome.Domain/bin/Debug/netstandard2.0/Palindrome.Domain.pdb
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/coding-challenges/csharp-challenge-cvchavez2/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.csprojAssemblyReference.cache
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/coding-challenges/csharp-challenge-cvchavez2/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.AssemblyInfoInputs.cache
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/coding-challenges/csharp-challenge-cvchavez2/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.AssemblyInfo.cs
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/coding-challenges/csharp-challenge-cvchavez2/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.csproj.CoreCompileInputs.cache
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/coding-challenges/csharp-challenge-cvchavez2/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.dll
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/coding-challenges/csharp-challenge-cvchavez2/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.pdb
