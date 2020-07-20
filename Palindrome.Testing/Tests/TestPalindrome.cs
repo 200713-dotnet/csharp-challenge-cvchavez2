@@ -15,6 +15,15 @@ namespace Palindrome.Testing.Test
           Assert.False(sut.IsPalindrome(s));
         }
 
+        [Fact]
+        public void TestIsPalindrome1()
+        {
+          var sut = new PalindromeC();
+          string s = "tacocat";
+
+          Assert.True(sut.IsPalindrome(s));
+        }
+
         /*
         Following test cases assert string passed is a palindrome
         */
