@@ -1,0 +1,6 @@
+# dotnet
+Palindrome.Domain/bin/
+Palindrome.Domain/obj/
+
+Palindrome.Testing/bin/
+Palindrome.Testing/obj/
