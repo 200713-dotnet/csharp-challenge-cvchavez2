@@ -36,7 +36,7 @@ namespace Palindrome.Testing.Test
         [InlineData("this is not a palindrome")]
         [InlineData("hellow guys")]
         [InlineData("NOT A PALINDROME!")]
-        public void TestIsPalindrome3(string s)
+        public void TestPhrases(string s)
         {
           var sut = new PalindromeC();
 
@@ -51,11 +51,25 @@ namespace Palindrome.Testing.Test
         [InlineData("w**w")]
         [InlineData("-bb-")]
         [InlineData("?aa?")]
-        public void TestIsPalindrome4(string s)
+        public void TestSpecialCharacters(string s)
         {
           var sut = new PalindromeC();
 
           Assert.True(sut.IsPalindrome(s));
+        }
+
+        /*
+        Following test cases assert string s passed is a palindrome - alphanumeric
+        */
+        [Theory]
+        [InlineData("12345")]
+        [InlineData("54321")]
+        [InlineData("010103")]
+        public void TestAlphanumeric(string s)
+        {
+          var sut = new PalindromeC();
+
+          Assert.False(sut.IsPalindrome(s));
         }
     }
 }
