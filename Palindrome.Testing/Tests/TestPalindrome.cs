@@ -1,4 +1,5 @@
 using System;
+using Palindrome.Domain;
 using Xunit;
 
 namespace Palindrome.Testing.Test
@@ -8,7 +9,7 @@ namespace Palindrome.Testing.Test
         [Fact]
         public void TestIsPalindrome()
         {
-          var sut = new Palindrome();
+          var sut = new PalindromeC();
           string s = "carlos";
 
           Assert.False(sut.IsPalindrome(s));
@@ -23,7 +24,7 @@ namespace Palindrome.Testing.Test
         [InlineData("deed")]
         public void TestIsPalindrome2(string s)
         {
-          var sut = new Palindrome();
+          var sut = new PalindromeC();
 
           Assert.True(sut.IsPalindrome(s));
         }
@@ -37,7 +38,7 @@ namespace Palindrome.Testing.Test
         [InlineData("NOT A PALINDROME!")]
         public void TestIsPalindrome3(string s)
         {
-          var sut = new Palindrome();
+          var sut = new PalindromeC();
 
           Assert.False(sut.IsPalindrome(s));
         }
@@ -50,9 +51,9 @@ namespace Palindrome.Testing.Test
         [InlineData("w**w")]
         [InlineData("-bb-")]
         [InlineData("?aa?")]
-        public void TestIsPalindrome2(string s)
+        public void TestIsPalindrome4(string s)
         {
-          var sut = new Palindrome();
+          var sut = new PalindromeC();
 
           Assert.True(sut.IsPalindrome(s));
         }
