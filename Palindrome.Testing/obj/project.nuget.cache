@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "P578dfdCsH+cLd2+iuW0PcoQdzPeEvJS8yMj5fkqPuL6hFNVOr5HlUadLmwrF48QQ90UTOUZVYXrfDZQXewd9A==",
+  "dgSpecHash": "E0DWAjWFtufeQeKeGJXFYVz8O3CstQVAXF4wraoJgss4a/W5FknjsVPwn8vIwbPa8Uj6JUMkXidX7RaVxlKA7g==",
   "success": true,
   "projectFilePath": "/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/coding-challenges/csharp-challenge-cvchavez2/Palindrome.Testing/Palindrome.Testing.csproj",
   "expectedPackageFiles": [
     "/Users/cvchavez2/.nuget/packages/coverlet.collector/1.2.0/coverlet.collector.1.2.0.nupkg.sha512",
+    "/Users/cvchavez2/.nuget/packages/coverlet.msbuild/2.9.0/coverlet.msbuild.2.9.0.nupkg.sha512",
     "/Users/cvchavez2/.nuget/packages/microsoft.codecoverage/16.5.0/microsoft.codecoverage.16.5.0.nupkg.sha512",
     "/Users/cvchavez2/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",
     "/Users/cvchavez2/.nuget/packages/microsoft.net.test.sdk/16.5.0/microsoft.net.test.sdk.16.5.0.nupkg.sha512",
